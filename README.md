@@ -1,6 +1,6 @@
 # vue-cli-plugin-expose-env
 
-> vue cli 3 plgin to expose none `VUE_APP_` env to frontend
+> vue cli 3 plugin to expose none `VUE_APP_` env to frontend
 
 <!-- [![Build Status](https://img.shields.io/travis/magicdawn/vue-cli-plugin-expose-env.svg?style=flat-square)](https://travis-ci.org/magicdawn/vue-cli-plugin-expose-env)
 [![Coverage Status](https://img.shields.io/codecov/c/github/magicdawn/vue-cli-plugin-expose-env.svg?style=flat-square)](https://codecov.io/gh/magicdawn/vue-cli-plugin-expose-env) -->
