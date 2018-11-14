@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-expose-env",
+  "version": "0.0.1",
+  "description": "vue cli 3 plgin to expose none VUE_APP_ env to frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-cover": "istanbul cover _mocha -- -u exports",
+    "report-cover": "codecov"
+  },
+  "keywords": [
+    "expose",
+    "expose-env",
+    "vue-cli-plugin"
+  ],
+  "author": "magicdawn",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  },
+  "peerDependencies": {
+    "@vue/cli-service": "*",
+    "webpack": "*"
+  }
+}
