@@ -14,12 +14,20 @@
     "vue-cli-plugin"
   ],
   "author": "magicdawn",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^4.8.0"
   },
   "peerDependencies": {
     "@vue/cli-service": "*",
     "webpack": "*"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magicdawn/vue-cli-plugin-expose-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/magicdawn/vue-cli-plugin-expose-env/issues"
+  },
+  "homepage": "https://github.com/magicdawn/vue-cli-plugin-expose-env#readme"
 }
